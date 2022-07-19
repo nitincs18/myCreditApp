@@ -27,7 +27,7 @@
     "material-ui-chip-input": "^1.0.0-beta.6",
     "materialize-css": "^1.0.0-rc.2",
     "mobiscroll": "^3.0.0-beta6",
-    "properties-reader": "0.0.16",
+    "properties-reader": "2.2.0",
     "react": "^16.4.1",
     "react-async-script": "^0.11.1",
     "react-autosuggest": "^9.3.4",
